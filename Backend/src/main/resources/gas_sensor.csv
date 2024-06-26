@@ -1,0 +1,3 @@
+gas_sensor_id,home_id,description
+GAS_SENSOR_A,SMH-001,"Cảm biến khí gas phòng khách"
+GAS_SENSOR_S,SMH-001,"Cảm biến khí gas phòng bếp"
